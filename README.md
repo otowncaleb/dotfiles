@@ -6,7 +6,7 @@
 1. `pbcopy < ~/.ssh/id_rsa.pub`
 1. [Add SSH Key](https://github.com/settings/ssh/new)
 1. `cd ~`
-1. `git clone git@github.com:PhantomCaleb/dotfiles.git`
+1. `git clone git@github.com:calebstdin/dotfiles.git`
 1. `cd dotfiles`
 1. Import iterm profile
 1. `brew install fish`
